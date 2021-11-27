@@ -1,6 +1,6 @@
 # hello-world
 
-This is my first repository in Github.It's used to storage some learning documents.And my personal blog is [Ives's Blog](https://www.ives.ltd).Welcome to my cloud space!Content me with Email:
+I'm a student from China,Shanghai.This is my first repository in Github.It's used to storage some learning documents.And my personal blog is [Ives's Blog](https://www.ives.ltd).Welcome to my cloud space!Content me with Email:*sunhaoyang@mail.dhu.edu.cn*.
 
 # Contents
 ## 1、Book
